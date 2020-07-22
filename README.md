@@ -1,7 +1,6 @@
-# NodeJS Typescript Starter with eslint, prettier and husky
+# TypeGraphQL + TypeORM + Apollo Server Starter
 
-### references:
-1. https://khalilstemmler.com/blogs/typescript/node-starter-project/
-2. https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/
-3. https://khalilstemmler.com/blogs/tooling/prettier/
-4. https://khalilstemmler.com/blogs/tooling/enforcing-husky-precommit-hooks/
+### References
+1. https://www.youtube.com/playlist?list=PLN3n1USn4xlma1bBu3Tloe4NyYn9Ko8Gs
+2. https://typegraphql.com/
+3. https://typeorm.io/
